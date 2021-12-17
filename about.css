@@ -190,7 +190,7 @@ footer {
   padding: 1rem;
   place-items: center;
   place-content: center;
-  position: absolute;
+  position: relative;
   bottom: 0;
 }
 footer > div:last-child {
